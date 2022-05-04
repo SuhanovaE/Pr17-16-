@@ -1,0 +1,14 @@
+C:\Users\Студент\source\repos\PR17_Ионин\PR17_Ионин\bin\Debug\PR17_Ионин.exe.config
+C:\Users\Студент\source\repos\PR17_Ионин\PR17_Ионин\bin\Debug\PR17_Ионин.exe
+C:\Users\Студент\source\repos\PR17_Ионин\PR17_Ионин\bin\Debug\PR17_Ионин.pdb
+C:\Users\Студент\source\repos\PR17_Ионин\PR17_Ионин\obj\Debug\PR17_Ионин.csproj.AssemblyReference.cache
+C:\Users\Студент\source\repos\PR17_Ионин\PR17_Ионин\obj\Debug\PR17_Ионин.csproj.CoreCompileInputs.cache
+C:\Users\Студент\source\repos\PR17_Ионин\PR17_Ионин\obj\Debug\PR17_Ионин.exe
+C:\Users\Студент\source\repos\PR17_Ионин\PR17_Ионин\obj\Debug\PR17_Ионин.pdb
+C:\Users\Студент\Desktop\PR17_Ионин\PR17_Ионин\bin\Debug\PR17_Ионин.exe.config
+C:\Users\Студент\Desktop\PR17_Ионин\PR17_Ионин\bin\Debug\PR17_Ионин.exe
+C:\Users\Студент\Desktop\PR17_Ионин\PR17_Ионин\bin\Debug\PR17_Ионин.pdb
+C:\Users\Студент\Desktop\PR17_Ионин\PR17_Ионин\obj\Debug\PR17_Ионин.csproj.AssemblyReference.cache
+C:\Users\Студент\Desktop\PR17_Ионин\PR17_Ионин\obj\Debug\PR17_Ионин.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\PR17_Ионин\PR17_Ионин\obj\Debug\PR17_Ионин.exe
+C:\Users\Студент\Desktop\PR17_Ионин\PR17_Ионин\obj\Debug\PR17_Ионин.pdb

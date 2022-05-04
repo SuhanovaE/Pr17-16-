@@ -1,0 +1,14 @@
+C:\Users\Студент\Desktop\ИСП.20А\ОАП\Немтырёвой К\PR17\bin\Debug\PR17.exe.config
+C:\Users\Студент\Desktop\ИСП.20А\ОАП\Немтырёвой К\PR17\bin\Debug\PR17.exe
+C:\Users\Студент\Desktop\ИСП.20А\ОАП\Немтырёвой К\PR17\bin\Debug\PR17.pdb
+C:\Users\Студент\Desktop\ИСП.20А\ОАП\Немтырёвой К\PR17\obj\Debug\PR17.csproj.AssemblyReference.cache
+C:\Users\Студент\Desktop\ИСП.20А\ОАП\Немтырёвой К\PR17\obj\Debug\PR17.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\ИСП.20А\ОАП\Немтырёвой К\PR17\obj\Debug\PR17.exe
+C:\Users\Студент\Desktop\ИСП.20А\ОАП\Немтырёвой К\PR17\obj\Debug\PR17.pdb
+C:\Users\Студент\Desktop\ИСП.20А\ОАП\Немтырёвой К\Немтырёвой ПР17\PR17\bin\Debug\PR17.exe.config
+C:\Users\Студент\Desktop\ИСП.20А\ОАП\Немтырёвой К\Немтырёвой ПР17\PR17\bin\Debug\PR17.exe
+C:\Users\Студент\Desktop\ИСП.20А\ОАП\Немтырёвой К\Немтырёвой ПР17\PR17\bin\Debug\PR17.pdb
+C:\Users\Студент\Desktop\ИСП.20А\ОАП\Немтырёвой К\Немтырёвой ПР17\PR17\obj\Debug\PR17.csproj.AssemblyReference.cache
+C:\Users\Студент\Desktop\ИСП.20А\ОАП\Немтырёвой К\Немтырёвой ПР17\PR17\obj\Debug\PR17.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\ИСП.20А\ОАП\Немтырёвой К\Немтырёвой ПР17\PR17\obj\Debug\PR17.exe
+C:\Users\Студент\Desktop\ИСП.20А\ОАП\Немтырёвой К\Немтырёвой ПР17\PR17\obj\Debug\PR17.pdb
