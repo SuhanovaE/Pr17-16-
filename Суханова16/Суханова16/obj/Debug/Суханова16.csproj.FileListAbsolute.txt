@@ -1,0 +1,7 @@
+C:\Users\ekate\OneDrive\Рабочий стол\домашка\ОАП\Суханова16\Суханова16\bin\Debug\Суханова16.exe.config
+C:\Users\ekate\OneDrive\Рабочий стол\домашка\ОАП\Суханова16\Суханова16\bin\Debug\Суханова16.exe
+C:\Users\ekate\OneDrive\Рабочий стол\домашка\ОАП\Суханова16\Суханова16\bin\Debug\Суханова16.pdb
+C:\Users\ekate\OneDrive\Рабочий стол\домашка\ОАП\Суханова16\Суханова16\obj\Debug\Суханова16.csproj.AssemblyReference.cache
+C:\Users\ekate\OneDrive\Рабочий стол\домашка\ОАП\Суханова16\Суханова16\obj\Debug\Суханова16.csproj.CoreCompileInputs.cache
+C:\Users\ekate\OneDrive\Рабочий стол\домашка\ОАП\Суханова16\Суханова16\obj\Debug\Суханова16.exe
+C:\Users\ekate\OneDrive\Рабочий стол\домашка\ОАП\Суханова16\Суханова16\obj\Debug\Суханова16.pdb
